@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @neelaydoshi
-- 👀 I’m interested in programming, machin learning and aerospace engineering.
+- 👀 I’m interested in Machine Learning, Programming and Aerospace Engineering.
 - 🌱 I’m currently learning Deep Learning and its application across various fields. 
 
 <!---
